@@ -3,6 +3,7 @@
 > A base de dados necessariamente deverá possuir também dados relativos ao ano de 2022.
 
 Fonte:
+
 https://worldhappiness.report/  
 https://worldhappiness.report/data/
 
@@ -77,7 +78,7 @@ Explained by: Generosity | numérico | (Explicado por: Generosidade): Refere-se 
 Explained by: Perceptions of corruption | numérico | (Explicado por: Percepções de corrupção): Indica a contribuição das percepções de corrupção para a pontuação na escada. |
 Dystopia + residual | numérico | Dystopia + residual: Uma combinação da pontuação hipotética mais baixa possível na escada (Dystopia) e qualquer variância não explicada (residual) nos dados. |
 
-Dicionário de dados modificada:
+Dicionário de dados modificado:
 
 2021, 2022, 2023:
 | Variáveis | Tipo de Dado | Descrição |
