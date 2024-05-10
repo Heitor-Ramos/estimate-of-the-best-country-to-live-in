@@ -113,25 +113,52 @@ Country name / Nome do país:
 
 (Acho que isso não tá certo não)
 
-	3- Análise exploratória de dados: 
+# Análise exploratória de dados: 
 
-> Utilizando métodos estatísticos simples, como média, mediana, moda, desvio padrão, percentil, o grupo deverá apresentar fatos a respeito dos dados obtidos.  
+## Visualização de dados:  
 
-* Espera-se que sejam utilizados/entregues pelos menos quatro medidas/métodos.
+### Pontuação dos países mais felizes  
+![Resultado 1](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%201.png)  
+
+De igual modo, podemos investigar as classificações dos países ao longo do tempo:
+
+### Classificação dos países mais felizes  
+![Resultado 2](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%202.png)  
+
+### Pontuação dos países mais tristes   
+
+![Resultado 3](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%203.png)  
+
+Do mesmo modo, podemos investigar as pontuações e as classificações dos países mais tristes, que poderíamos definir como tendo as pontuações mais baixas da escada da felicidade em 2023.  
+
+Verificamos que 8 em cada 10 destes países são de África, que historicamente tem sido devastada pela guerra, pelo colonialismo e pela desigualdade e corrupção. Os dois últimos países (Afeganistão e Líbano) foram 
+devastados por numerosas guerras (guerra do Afeganistão, guerra do Líbano em 2006). 
+
+### Classificação dos países mais tristes  
+![Resultado 4](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%204.png)  
 
 
-	4 - Visualização de dados:
+## Análise crítica e conclusão: 
 
-> Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados. 
+Verificamos que as classificações e as pontuações dos países se mantêm relativamente inalteradas, com algumas excepções. Por exemplo, a Malásia registou um declínio acentuado na sua pontuação da escada de 2018 
+para 2019.  
 
-* Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
+Outro fator que percebemos é que 8 dos 10 primeiros países mais felizes se situam na Europa e, além disso, 5 deles são da Escandinávia (Finlândia, Dinamarca, Islândia, Suécia e Noruega). Estes fatos são esperados, uma 
+vez que estes países são conhecidos pela sua elevada qualidade de vida.
 
+E para países com um declínio acentuado. Um fato que deveria ser esperado é se o índice de felicidade medido é baixo, geralmente indica baixos níveis de liberdade, direitos humanos e elevados níveis de corrupção 
+governamental. Sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
 
-	5- Análise crítica e conclusão: 
+Elevados níveis de corrupção governamental e sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
 
-> Ao final, o grupo deverá interpretar os dados estatísticos e os gráficos apresentados à luz dos problemas e hipóteses que foram definidos. 
+Curiosamente, as pontuações do Afeganistão e do Líbano eram relativamente mais altas, mas depois caíram significativamente a partir de 2017. Se consultarmos fontes externas, podemos ver mais ou menos porque é que isto 
+acontece:
 
-* Espera-se que o grupo seja capaz de tirar conclusões a partir da análise dos resultados.
+Afeganistão: Após a ocupação americana do país, que terminou em 2021, o Tailban assumiu o poder em agosto de 2021. Impuseram numerosas regras e políticas que violavam os direitos humanos, especialmente das mulheres.
+Também reprimiram a liberdade de expressão, fecharam à força organizações da sociedade civil e desmantelaram gabinetes governamentais centrados nos direitos humanos. 
+
+Líbano: O Líbano está atualmente a atravessar uma crise financeira que começou por volta de 2019 e foi ainda mais exacerbada pela pandemia de COVID-19, pela explosão do porto de Beirute em 2020 e pela invasão russa da 
+Ucrânia. Foi ainda mais devastada pelas sanções dos EUA contra o governo da Síria e o Hezbollah, apoiado pelo Irão. Em particular, a sua moeda foi desvalorizada em 90%, com níveis de inflação de três dígitos. 
 
 ___________
 
