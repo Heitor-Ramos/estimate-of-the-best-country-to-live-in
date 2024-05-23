@@ -1,62 +1,17 @@
-1 - Identificação de uma base de dados de interesse:
-
-> A base de dados necessariamente deverá possuir também dados relativos ao ano de 2022.
+# 1 - Identificação de uma base de dados de interesse:
 
 Fonte:
 
 https://worldhappiness.report/  
 https://worldhappiness.report/data/
 
-Datasets:
+Dataset:
 
-[WorldHappinessReportDatasets.zip](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/files/15269340/WorldHappinessReportDatasets.zip)
+[World Happiness Report 2023.csv](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/files/15422833/World.Happiness.Report.2023.csv)
 
-> Dicionário de dados: deve apresentar o nome do campo/atributo, o tipo do dado e uma breve descrição.
+## Dicionário de dados original: 
 
-Dicionário de dados original: 
-
-2021:
-| Variáveis | Tipo de Dado | Descrição |
-| ----------| ------------ | ----------|
-Country name | textual | O nome do país. |
-Regional indicator | textual | Indicador regional: O agrupamento ou indicador regional ao qual o país pertence. |
-Ladder score | numérico | Pontuação na escada: Uma medida de bem-estar subjetivo, frequentemente usada como um proxy para felicidade ou satisfação com a vida. |
-Standard error of ladder score | numérico | Erro padrão da pontuação na escada: O erro padrão associado à pontuação na escada, indicando a precisão da estimativa. |
-upperwhisker | numérico | Limite superior da caixa (whisker): A extremidade superior do intervalo de confiança para a pontuação na escada. |
-lowerwhisker | numérico | Limite inferior da caixa (whisker): A extremidade inferior do intervalo de confiança para a pontuação na escada. |
-Logged GDP per capita | numérico | PIB per capita registrado: O logaritmo natural do Produto Interno Bruto (PIB) per capita, uma medida de desempenho econômico. |
-Social support | numérico | Apoio social: Uma medida da força de redes sociais e sistemas de apoio dentro de um país. |
-Healthy life expectancy | numérico | Expectativa de vida saudável: O número médio de anos que uma pessoa pode esperar viver em boa saúde. |
-Freedom to make life choices | numérico | Liberdade para fazer escolhas de vida: O grau de liberdade que os indivíduos têm ao fazer escolhas de vida, como em suas carreiras, relacionamentos e atividades pessoais. |
-Generosity | numérico | Generosidade: A tendência dos indivíduos de se engajarem em atos de caridade ou de ajudar os outros. |
-Perceptions of corruption | numérico | Percepções de corrupção: O nível percebido de corrupção dentro de um país. |
-Ladder score in Dystopia | numérico | Pontuação na escada em Dystopia: A pontuação hipotética mais baixa possível na escada, usada como ponto de referência. |
-Explained by: Log GDP per capita | numérico | (Explicado por: Log PIB per capita): Refere-se à contribuição da renda per capita (PIB) para a pontuação na escada. |
-Explained by: Social support | numérico | (Explicado por: Apoio social): Indica a contribuição do apoio social para a pontuação na escada. |
-Explained by: Healthy life expectancy | numérico | (Explicado por: Expectativa de vida saudável): Refere-se à contribuição da expectativa de vida saudável para a pontuação na escada. |
-Explained by: Freedom to make life choices | numérico | (Explicado por: Liberdade para fazer escolhas de vida): Indica a contribuição da liberdade individual para tomar decisões de vida para a pontuação na escada. | 
-Explained by: Generosity | numérico | (Explicado por: Generosidade): Refere-se à contribuição da generosidade para a pontuação na escada. |
-Explained by: Perceptions of corruption | numérico | (Explicado por: Percepções de corrupção): Indica a contribuição das percepções de corrupção para a pontuação na escada. |
-Dystopia + residual | numérico | Dystopia + residual: Uma combinação da pontuação hipotética mais baixa possível na escada (Dystopia) e qualquer variância não explicada (residual) nos dados. |
-
-2022:
-| Variáveis | Tipo de Dado | Descrição |
-| ----------| ------------ | ----------|
-RANK | numérico ordinal | Rank (Classificação): A posição de um país em relação aos outros países, ordenada pela pontuação de felicidade.
-Country | textual | O nome do país. |
-Happiness score| numérico | Pontuação de felicidade: Representa a pontuação geral de felicidade atribuída a um país.
-Whisker-high  | numérico | Limite superior da caixa (whisker): A extremidade superior do intervalo de confiança para a pontuação na escada. |
-Whisker-low | numérico | Limite inferior da caixa (whisker): A extremidade inferior do intervalo de confiança para a pontuação na escada. |
-Dystopia (1.83) + residual| numérico | Dystopia (1.83) + residual: Refere-se a uma pontuação composta, que inclui um valor fixo para Dystopia (1.83) e qualquer variação residual que não pode ser explicada pelos fatores medidos.
-Explained by: Log GDP per capita | numérico | (Explicado por: Log PIB per capita): Refere-se à contribuição da renda per capita (PIB) para a pontuação na escada. |
-Explained by: Social support | numérico | (Explicado por: Apoio social): Indica a contribuição do apoio social para a pontuação na escada. |
-Explained by: Healthy life expectancy | numérico | (Explicado por: Expectativa de vida saudável): Refere-se à contribuição da expectativa de vida saudável para a pontuação na escada. |
-Explained by: Freedom to make life choices | numérico | (Explicado por: Liberdade para fazer escolhas de vida): Indica a contribuição da liberdade individual para tomar decisões de vida para a pontuação na escada. | 
-Explained by: Generosity | numérico | (Explicado por: Generosidade): Refere-se à contribuição da generosidade para a pontuação na escada. |
-Explained by: Perceptions of corruption | numérico | (Explicado por: Percepções de corrupção): Indica a contribuição das percepções de corrupção para a pontuação na escada. |
-
-2023: 
-| Variáveis | Tipo de Dado | Descrição |
+| Atributos | Tipo de Dado | Descrição |
 | ----------| ------------ | ----------|
 Country name | textual | O nome do país. |
 Ladder score | numérico | Pontuação na escada: Uma medida de bem-estar subjetivo, frequentemente usada como um proxy para felicidade ou satisfação com a vida. |
@@ -78,81 +33,81 @@ Explained by: Generosity | numérico | (Explicado por: Generosidade): Refere-se 
 Explained by: Perceptions of corruption | numérico | (Explicado por: Percepções de corrupção): Indica a contribuição das percepções de corrupção para a pontuação na escada. |
 Dystopia + residual | numérico | Dystopia + residual: Uma combinação da pontuação hipotética mais baixa possível na escada (Dystopia) e qualquer variância não explicada (residual) nos dados. |
 
-Dicionário de dados modificado:
+## Dicionário de dados modificado:
 
-2021, 2022, 2023:
-| Variáveis | Tipo de Dado | Descrição |
+| Atributos | Tipo de Dado | Descrição |
 | ----------| ------------ | ----------|
-Country | textual | O nome do país. |
-Whisker-high  | numérico | Limite superior da caixa (whisker): A extremidade superior do intervalo de confiança para a pontuação na escada. |
-Whisker-low | numérico | Limite inferior da caixa (whisker): A extremidade inferior do intervalo de confiança para a pontuação na escada. |
+Country name | textual | O nome do país. |
+Ladder score | numérico | Pontuação na escada: Uma medida de bem-estar subjetivo, frequentemente usada como um proxy para felicidade ou satisfação com a vida. |
+Standard error of ladder score | numérico | Erro padrão da pontuação na escada: O erro padrão associado à pontuação na escada, indicando a precisão da estimativa. |
+Logged GDP per capita | numérico | PIB per capita registrado: O logaritmo natural do Produto Interno Bruto (PIB) per capita, uma medida de desempenho econômico. |
+Social support | numérico | Apoio social: Uma medida da força de redes sociais e sistemas de apoio dentro de um país. |
+Healthy life expectancy | numérico | Expectativa de vida saudável: O número médio de anos que uma pessoa pode esperar viver em boa saúde. |
+Freedom to make life choices | numérico | Liberdade para fazer escolhas de vida: O grau de liberdade que os indivíduos têm ao fazer escolhas de vida, como em suas carreiras, relacionamentos e atividades pessoais. |
+Generosity | numérico | Generosidade: A tendência dos indivíduos de se engajarem em atos de caridade ou de ajudar os outros. |
+Perceptions of corruption | numérico | Percepções de corrupção: O nível percebido de corrupção dentro de um país. |
+Ladder score in Dystopia | numérico | Pontuação na escada em Dystopia: A pontuação hipotética mais baixa possível na escada, usada como ponto de referência. |
 Explained by: Log GDP per capita | numérico | (Explicado por: Log PIB per capita): Refere-se à contribuição da renda per capita (PIB) para a pontuação na escada. |
 Explained by: Social support | numérico | (Explicado por: Apoio social): Indica a contribuição do apoio social para a pontuação na escada. |
 Explained by: Healthy life expectancy | numérico | (Explicado por: Expectativa de vida saudável): Refere-se à contribuição da expectativa de vida saudável para a pontuação na escada. |
 Explained by: Freedom to make life choices | numérico | (Explicado por: Liberdade para fazer escolhas de vida): Indica a contribuição da liberdade individual para tomar decisões de vida para a pontuação na escada. | 
 Explained by: Generosity | numérico | (Explicado por: Generosidade): Refere-se à contribuição da generosidade para a pontuação na escada. |
 Explained by: Perceptions of corruption | numérico | (Explicado por: Percepções de corrupção): Indica a contribuição das percepções de corrupção para a pontuação na escada. |
+Dystopia + residual | numérico | Dystopia + residual: Uma combinação da pontuação hipotética mais baixa possível na escada (Dystopia) e qualquer variância não explicada (residual) nos dados. |
+
+*Foram eliminados os atributos upperwhisker e lowerwhisker.
+
+## Apresentação de uma amostra dos dados:
+
+Country name	Ladder score	Standard error of ladder score	Logged GDP per capita	Social support	Healthy life expectancy	Freedom to make life choices	Generosity	Perceptions of corruption	Ladder score in Dystopia	Explained by: Log GDP per capita	Explained by: Social support	Explained by: Healthy life expectancy	Explained by: Freedom to make life choices	Explained by: Generosity	Explained by: Perceptions of corruption	Dystopia + residual		
+Finland 	7.804	0.036	10.792	0.969	71.150	0.961	-0.019	0.182	1.778	1.888	1.585	0.535	0.772	0.126	0.535	2.363		
+Denmark 	7.586	0.041	10.962	0.954	71.250	0.934	0.134	0.196	1.778	1.949	1.548	0.537	0.734	0.208	0.525	2.084		
+Iceland 	7.530	0.049	10.896	0.983	72.050	0.936	0.211	0.668	1.778	1.926	1.620	0.559	0.738	0.250	0.187	2.250		
+Israel 	        7.473	0.032	10.639	0.943	72.697	0.809	-0.023	0.708	1.778	1.833	1.521	0.577	0.569	0.124	0.158	2.691		
+Netherlands	7.403	0.029	10.942	0.930	71.550	0.887	0.213	0.379	1.778	1.942	1.488	0.545	0.672	0.251	0.394	2.110		
+Sweden	        7.395	0.037	10.883	0.939	72.150	0.948	0.165	0.202	1.778	1.921	1.510	0.562	0.754	0.225	0.520	1.903		
+Norway	        7.315	0.044	11.088	0.943	71.500	0.947	0.141	0.283	1.778	1.994	1.521	0.544	0.752	0.212	0.463	1.829		
+Switzerland	7.240	0.043	11.164	0.920	72.900	0.891	0.027	0.266	1.778	2.022	1.463	0.582	0.678	0.151	0.475	1.870		
+Luxembourg	7.228	0.069	11.660	0.879	71.675	0.915	0.024	0.345	1.778	2.200	1.357	0.549	0.710	0.149	0.418	1.845	
+
+## Explicação dos  atributos: 
+
+https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf 
+(página 1 à 3)
+
+# 2- Definição do problema:
+## Pergunta orientada a dados:
+
+Quais são os países (Country name) com as pontuações mais altas e mais baixas na escada de bem-estar subjetivo (Ladder score)?
+
+## Análise exploratória de dados: 
 
 
-> Complemente com uma a apresentação de um fragmento/amostra de dos dados (algumas poucas linhas).
-
-> Caso tenha feito limpeza e redução da base de dados, descreve como isso foi feito. Indique o que significa cada linha e cada coluna selecionadas para o trabalho.
 
 
-	2- Definição do problema:
+# 3- Visualização de dados:  
 
-> Pergunta orientada a dados.
+> Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
+	> Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
 
-Dados fatores como o PIB per capita, o suporte social, a expectativa de vida saudável, a liberdade para fazer escolhas de vida, a generosidade e as percepções de corrupção de diversos países, nos anos de 2021, 2022 e 2023, qual o país mais oportuno de se habitar em 2024.
+# 4- Análise crítica e conclusão: 
 
-(Whisker-high, Whisker-low ... pensando se inclui +isso)
+Os países que estão no topo da escada de felicidade são:
+Os países que estão na base da escada de felicidade são:
+Explicação: relação da pontuação da Ladder score com os seguintes atributos: Logged GDP per capital, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption 
 
-> Deixe claro no seu objetivo qual dado você pretende utilizar para responder a pergunta.
-
-Country name / Nome do país: 
-
-(Acho que isso não tá certo não)
-
-# Análise exploratória de dados: 
-
-## Visualização de dados:  
-
-### Pontuação dos países mais felizes  
-![Resultado 1](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%201.png)  
-
-De igual modo, podemos investigar as classificações dos países ao longo do tempo:
-
-### Classificação dos países mais felizes  
-![Resultado 2](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%202.png)  
-
-### Pontuação dos países mais tristes   
-
-![Resultado 3](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%203.png)  
-
-Do mesmo modo, podemos investigar as pontuações e as classificações dos países mais tristes, que poderíamos definir como tendo as pontuações mais baixas da escada da felicidade em 2023.  
-
-Verificamos que 8 em cada 10 destes países são de África, que historicamente tem sido devastada pela guerra, pelo colonialismo e pela desigualdade e corrupção. Os dois últimos países (Afeganistão e Líbano) foram 
-devastados por numerosas guerras (guerra do Afeganistão, guerra do Líbano em 2006). 
-
-### Classificação dos países mais tristes  
-![Resultado 4](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/resultado%204.png)  
-
-
-## Análise crítica e conclusão: 
+**Exemplo: 
 
 Verificamos que as classificações e as pontuações dos países se mantêm relativamente inalteradas, com algumas excepções. Por exemplo, a Malásia registou um declínio acentuado na sua pontuação da escada de 2018 
 para 2019.  
 
-Outro fator que percebemos é que 8 dos 10 primeiros países mais felizes se situam na Europa e, além disso, 5 deles são da Escandinávia (Finlândia, Dinamarca, Islândia, Suécia e Noruega). Estes fatos são esperados, uma 
-vez que estes países são conhecidos pela sua elevada qualidade de vida.
+Outro fator que percebemos é que 8 dos 10 primeiros países mais felizes se situam na Europa e, além disso, 5 deles são da Escandinávia (Finlândia, Dinamarca, Islândia, Suécia e Noruega). Estes fatos são esperados, uma vez que estes países são conhecidos pela sua elevada qualidade de vida.
 
-E para países com um declínio acentuado. Um fato que deveria ser esperado é se o índice de felicidade medido é baixo, geralmente indica baixos níveis de liberdade, direitos humanos e elevados níveis de corrupção 
-governamental. Sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
+E para países com um declínio acentuado. Um fato que deveria ser esperado é se o índice de felicidade medido é baixo, geralmente indica baixos níveis de liberdade, direitos humanos e elevados níveis de corrupção governamental. Sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
 
 Elevados níveis de corrupção governamental e sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
 
-Curiosamente, as pontuações do Afeganistão e do Líbano eram relativamente mais altas, mas depois caíram significativamente a partir de 2017. Se consultarmos fontes externas, podemos ver mais ou menos porque é que isto 
-acontece:
+Curiosamente, as pontuações do Afeganistão e do Líbano eram relativamente mais altas, mas depois caíram significativamente a partir de 2017. Se consultarmos fontes externas, podemos ver mais ou menos porque é que isto acontece:
 
 Afeganistão: Após a ocupação americana do país, que terminou em 2021, o Tailban assumiu o poder em agosto de 2021. Impuseram numerosas regras e políticas que violavam os direitos humanos, especialmente das mulheres.
 Também reprimiram a liberdade de expressão, fecharam à força organizações da sociedade civil e desmantelaram gabinetes governamentais centrados nos direitos humanos. 
@@ -166,7 +121,11 @@ Na capa do trabalho deverá haver a indicação do NOME COMPLETO de cada um dos 
 
 a) Um TEXTO descrevendo cada uma das etapas indicadas anteriormente. O texto deve ser entregue em formato científico. No site da Biblioteca da PUC Minas existem orientações para Elaborar, formatar artigo científico
 
-> Introdução + contextualização, pergunta orientada a dados, objetivo + justificativa, preparação dos dados + transformação dos dados...
+> Breve introdução e contextualização sobre o dataset + (pegar o dicionário de dados e o fragmento) + explicação das variáveis em formato numérico;
+> (pegar pergunta orientada a dados) + descrição dos 4 métodos de análise exploratória dos dados (pegar imagens);
+> Descrição dos 3 elementos visuais (pegar imagens);
+> Análise crítica -> hipóteses + conclusão;
+> Vídeo.
 
 b) A base de dados tratada (não precisa ser a original) em formato CSV ou Excel.
 
@@ -175,64 +134,33 @@ c) Um VÍDEO do projeto com a apresentação dos resultados obtidos (dados estat
 
 
 
-2021:
-Country name
-Regional indicator
-Ladder score
-Standard error of ladder score
-upperwhisker
-lowerwhisker
-Logged GDP per capita
-Social support
-Healthy life expectancy
-Freedom to make life choices
-Generosity
-Perceptions of corruption
-Ladder score in Dystopia
-Explained by: Log GDP per capita
-Explained by: Social support
-Explained by: Healthy life expectancy
-Explained by: Freedom to make life choices
-Explained by: Generosity
-Explained by: Perceptions of corruption
-Dystopia + residual
-
-2022:
-RANK
-Country
-Happiness score
-Whisker-high,Whisker-low
-Dystopia (1.83) + residual
-Explained by: GDP per capita
-Explained by: Social support
-Explained by: Healthy life expectancy
-Explained by: Freedom to make life choices
-Explained by: Generosity
-Explained by: Perceptions of corruption
 
 2023: 
-Country name
-Ladder score
+Country name *
+
+Ladder score *
 Standard error of ladder score
-upperwhisker
-lowerwhisker
+
+> Atributos que influenciam na pontuação da escada:
 Logged GDP per capita
-Social support
-Healthy life expectancy
-Freedom to make life choices
+Social support 
+Healthy life expectancy 
+Freedom to make life choices 
 Generosity
-Perceptions of corruption
-Ladder score in Dystopia
+Perceptions of corruption 
+
+> Refere-se à contribuição para a pontuação na escada:
 Explained by: Log GDP per capita
 Explained by: Social support
 Explained by: Healthy life expectancy
 Explained by: Freedom to make life choices
 Explained by: Generosity
 Explained by: Perceptions of corruption
+
+> Distopia = cenário hipotético 
+Ladder score in Dystopia
 Dystopia + residual
-
-
-
-
-
-
+_____________
+ATRIBUTOS DELETADOS:
+upperwhisker
+lowerwhisker 
