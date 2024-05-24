@@ -243,37 +243,53 @@ mundial. Análises mais aprofundadas podem ajudar a identificar intervenções e
 
 # 3- Visualização de dados:  
 
-- Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
-	- Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
+### Mapa do Índice de Felicidade
+![__results___mapa](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/mapa%20por%20indice%20de%20felicidade.png)  
 
+O gráfico revela uma clara divisão geográfica, onde os países desenvolvidos tendem a ter maiores índices de felicidade, refletindo melhores condições socioeconômicas, sistemas de suporte social robustos e alta qualidade 
+de vida. Em contraste, regiões com conflitos, pobreza e infraestrutura inadequada apresentam níveis de felicidade significativamente mais baixos.  
 
+![__results___1](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20maior%20indice.png)  
 
-Tentando te ajudar com os atributos pra você pensar quais os melhores gráficos pra gente:
+Esses países têm índices de felicidade muito próximos, todos em torno de 7 a 8 pontos. A presença de países nórdicos como Finlândia, Dinamarca, Islândia, Suécia e Noruega é notável, refletindo a consistência dessas 
+nações em proporcionar altos níveis de bem-estar aos seus cidadãos.  
 
-   2023: 
-- Country name *
+![__results___2](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20menor%20indice.png)  
 
-- Ladder score *
-- Standard error of ladder score
+Esses países apresentam índices de felicidade muito baixos, variando de aproximadamente 2 a 4 pontos. Muitos deles estão localizados na África ou em regiões de conflito, refletindo desafios significativos em termos de 
+qualidade de vida e bem-estar.  
 
-Atributos que influenciam na pontuação da escada:
-- Logged GDP per capita
-- Social support 
-- Healthy life expectancy 
-- Freedom to make life choices 
-- Generosity
-- Perceptions of corruption 
+![__results___3](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20maior%20suporte.png)  
 
-Refere-se à contribuição para a pontuação na escada:
-- Explained by: Log GDP per capita
-- Explained by: Social support
-- Explained by: Healthy life expectancy
-- Explained by: Freedom to make life choices
-- Explained by: Generosity
-- Explained by: Perceptions of corruption
+Novamente, os países nórdicos aparecem com destaque, reforçando a ideia de que o suporte social é um fator importante na qualidade de vida e, possivelmente, na felicidade geral dos habitantes.  
 
-Distopia = cenário hipotético 
-- Ladder score in Dystopia
+![__results___4](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20menor%20suporte.png)  
+
+Estes países têm suporte social bastante limitado, o que pode contribuir para os baixos níveis de felicidade observados. A falta de suporte social pode significar menos redes de segurança e menos assistência em momentos 
+de necessidade, afetando negativamente a qualidade de vida.  
+
+![__results___5](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20maior%20expectativa.png) 
+
+Esses países têm expectativas de vida bastante elevadas, todas próximas ou acima dos 80 anos. A presença de nações asiáticas como Hong Kong, Japão, Singapura e Coreia do Sul, junto com países europeus como Suíça, 
+Espanha, França e Suécia, é notável. 
+
+![__results___6](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20menor%20expectativa.png)  
+
+Esses países têm expectativas de vida significativamente mais baixas, em torno de 50 anos. A maioria está localizada na África, refletindo desafios substanciais em saúde, nutrição, conflitos e infraestrutura.  
+
+### Análise Geral  
+
+Os gráficos mostram uma correlação significativa entre a expectativa de vida, felicidade e suporte social. Os países com maior expectativa de vida, como Suíça, Israel, Suécia e Espanha, também aparecem nos rankings de 
+felicidade e suporte social, indicando que uma população mais saudável tende a ser mais feliz e bem amparada socialmente.  
+
+Por outro lado, países com menor expectativa de vida como Afeganistão, Serra Leoa e Zimbábue, também estão entre os que têm os menores índices de felicidade e suporte social. Isso sugere que desafios em saúde e bem-
+estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral  
+
+### Conclusão  
+
+A análise revela que políticas que promovem a saúde, a segurança social e a infraestrutura podem ter um impacto positivo tanto na expectativa de vida quanto na felicidade. Países que investem em suporte social e bem-
+estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
+aumentar a felicidade de seus habitantes.  
 
 _____________
 ATRIBUTOS DELETADOS:
