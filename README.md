@@ -120,8 +120,7 @@ Quais são os países (Country name) com as pontuações mais altas e mais baixa
 
 ## Análise exploratória de dados: 
 
-- Análise exploratória de dados: fatos e oportunidades. Utilizando métodos estatísticos simples, como média, mediana, moda, desvio padrão, percentil, o grupo deverá apresentar fatos a respeitos dos dados obtidos.  
-	- Espera-se que sejam utilizados/entregues pelos menos quatro medidas/métodos.
+[Código da Análise](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/analysis.ipynb)
 
 
 # 3- Visualização de dados:  
