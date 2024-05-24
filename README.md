@@ -74,27 +74,34 @@ Luxembourg	7.228	0.069	11.660	0.879	71.675	0.915	0.024	0.345	1.778	2.200	1.357	0
 https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf 
 (página 1 à 3)
 
-- Ladder score 
+- Ladder score
+  
 Pontuação de felicidade ou bem-estar subjetivo (nome da variável "ladder") é a resposta média nacional à pergunta sobre avaliações da vida. A formulação em inglês da pergunta é: “Por favor, imagine uma escada com degraus numerados de 0 na parte inferior a 10 no topo. O topo da escada representa a melhor vida possível para você e a parte inferior da escada representa a pior vida possível para você. Em qual degrau da escada você diria que se sente neste momento?”. Essa medida também é conhecida como "escada da vida de Cantril". A medida de Bem-Estar Subjetivo (SWB) da pesquisa é proveniente da pesquisa Gallup World Poll (GWP) de 20 de janeiro de 2023.
 
 - Standard error of ladder score
 
 - Logged GDP per capita
+
 As estatísticas do PIB per capita (nome da variável "gdp") em paridade de poder de compra (PPP) são provenientes dos Indicadores de Desenvolvimento Mundial (WDI, versão 17, metadados atualizados pela última vez em 22 de janeiro de 2023).
   
 - Social support
+  
 O suporte social (ou ter alguém em quem contar em tempos de dificuldade) é a média nacional das respostas binárias (0 ou 1) para a pergunta da GWP "Se você estivesse em apuros, você teria parentes ou amigos em quem poderia contar para ajudá-lo sempre que precisasse, ou não?"
 
 - Healthy life expectancy
+  
 A expectativa de vida saudável é calculada com base nos dados extraídos do repositório de dados da Organização Mundial da Saúde (OMS) sobre observatório global de saúde.
 
 - Freedom to make life choices
+  
 A liberdade para fazer escolhas na vida é a média nacional das respostas à pergunta da GWP "Você está satisfeito ou insatisfeito com sua liberdade de escolher o que fazer com sua vida?"
   
 - Generosity
+  
 Generosidade é o residual de regredir a média nacional de resposta à pergunta da GWP "Você doou dinheiro para uma instituição de caridade no último mês?" no PIB per capita.
 
 - Perceptions of corruption
+  
 Percepção de Corrupção: A medida é a média nacional das respostas à pesquisa a duas perguntas na GWP: "A corrupção é generalizada no governo ou não?" e "A corrupção é generalizada nas empresas ou não?" A percepção geral é apenas a média das duas respostas binárias (0 ou 1). No caso em que a percepção de corrupção no governo está ausente, usamos a percepção de corrupção nos negócios como a percepção geral. A percepção de corrupção em nível nacional é apenas a resposta média da percepção geral em nível individual.
 
 - Explained by: Log GDP per capita
