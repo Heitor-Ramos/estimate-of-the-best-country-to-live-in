@@ -82,13 +82,14 @@ Quais são os países (Country name) com as pontuações mais altas e mais baixa
 
 ## Análise exploratória de dados: 
 
-
+- Análise exploratória de dados: fatos e oportunidades. Utilizando métodos estatísticos simples, como média, mediana, moda, desvio padrão, percentil, o grupo deverá apresentar fatos a respeitos dos dados obtidos.  
+	- Espera-se que sejam utilizados/entregues pelos menos quatro medidas/métodos.
 
 
 # 3- Visualização de dados:  
 
-> Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
-	> Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
+- Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
+	- Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
 
 # 4- Análise crítica e conclusão: 
 
