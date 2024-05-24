@@ -91,12 +91,15 @@ Quais são os países (Country name) com as pontuações mais altas e mais baixa
 - Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
 	- Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
 
-Tentando te ajudar com os atributos pra você pensar quais os melhores gráficos pra gente:
-   2023: 
-Country name *
 
-Ladder score *
-Standard error of ladder score
+
+Tentando te ajudar com os atributos pra você pensar quais os melhores gráficos pra gente:
+
+   2023: 
+- Country name *
+
+- Ladder score *
+- Standard error of ladder score
 
 Atributos que influenciam na pontuação da escada:
 - Logged GDP per capita
