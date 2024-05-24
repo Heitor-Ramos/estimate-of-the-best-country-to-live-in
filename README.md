@@ -91,6 +91,37 @@ Quais são os países (Country name) com as pontuações mais altas e mais baixa
 - Utilizando ferramentas de visualização de dados (ex. Excel, PowerBI, GapMinder, Tableau), os alunos deverão construir e apresentar gráficos, tabelas sumarizadas, infográficos ou outros elementos visuais que descrevam os dados.
 	- Espera-se que o grupo apresente pelo menos três gráficos/resultados visuais.
 
+Tentando te ajudar com os atributos pra você pensar quais os melhores gráficos pra gente:
+   2023: 
+Country name *
+
+Ladder score *
+Standard error of ladder score
+
+-> Atributos que influenciam na pontuação da escada:
+Logged GDP per capita
+Social support 
+Healthy life expectancy 
+Freedom to make life choices 
+Generosity
+Perceptions of corruption 
+
+-> Refere-se à contribuição para a pontuação na escada:
+Explained by: Log GDP per capita
+Explained by: Social support
+Explained by: Healthy life expectancy
+Explained by: Freedom to make life choices
+Explained by: Generosity
+Explained by: Perceptions of corruption
+
+-> Distopia = cenário hipotético 
+Ladder score in Dystopia
+Dystopia + residual
+_____________
+ATRIBUTOS DELETADOS:
+upperwhisker
+lowerwhisker 
+
 # 4- Análise crítica e conclusão: 
 
 Os países que estão no topo da escada de felicidade são:
@@ -132,36 +163,3 @@ b) A base de dados tratada (não precisa ser a original) em formato CSV ou Excel
 
 c) Um VÍDEO do projeto com a apresentação dos resultados obtidos (dados estatísticas e visuais). É importante que o vídeo inicialize com a citação ou apresentação dos membros da equipe e a contextualização da origem da base de dados. Não é necessário que todos apresentem. Vídeo deve ter no máximo 5 minutos.
 
-
-
-
-
-2023: 
-Country name *
-
-Ladder score *
-Standard error of ladder score
-
--> Atributos que influenciam na pontuação da escada:
-Logged GDP per capita
-Social support 
-Healthy life expectancy 
-Freedom to make life choices 
-Generosity
-Perceptions of corruption 
-
--> Refere-se à contribuição para a pontuação na escada:
-Explained by: Log GDP per capita
-Explained by: Social support
-Explained by: Healthy life expectancy
-Explained by: Freedom to make life choices
-Explained by: Generosity
-Explained by: Perceptions of corruption
-
--> Distopia = cenário hipotético 
-Ladder score in Dystopia
-Dystopia + residual
-_____________
-ATRIBUTOS DELETADOS:
-upperwhisker
-lowerwhisker 
