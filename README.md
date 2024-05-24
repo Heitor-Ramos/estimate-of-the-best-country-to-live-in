@@ -120,8 +120,126 @@ Quais são os países (Country name) com as pontuações mais altas e mais baixa
 
 ## Análise exploratória de dados: 
 
-[Código da Análise](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/analysis.ipynb)
+[Código da Análise](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/analysis.ipynb)  
 
+### Ladder Score  
+
+• Média: 5.54  
+• Mediana: 5.68  
+• Desvio Padrão: 1.14  
+• Percentis:  
+   25% Percentil: 4.72  
+   50% Percentil: 5.68  
+   75% Percentil: 6.33  
+
+#### Análise:  
+A média de 5.54 e a mediana de 5.68 indicam que os escores de felicidade global estão em um nível moderado, com uma distribuição simétrica. O desvio padrão de 1.14 mostra uma variação considerável, sugerindo que fatores diversos influenciam a felicidade em diferentes 
+países. A diferença entre os percentis 25% e 75% (4.72 a 6.33) indica uma ampla distribuição nos níveis de felicidade.  
+
+### Logged GDP per Capita  
+
+• Média: 9.45  
+• Mediana: 9.57  
+• Desvio Padrão: 1.21  
+• Percentis:  
+   25% Percentil: 8.59  
+   50% Percentil: 9.57  
+   75% Percentil: 10.54  
+
+#### Análise:  
+A média de 9.45 e a mediana de 9.57 sugerem que a maioria dos países possui um nível moderado de riqueza econômica. O desvio padrão de 1.21 indica disparidades significativas entre os países. A diferença entre os percentis 25% e 75% (8.59 a 10.54) demonstra uma forte 
+correlação entre PIB per capita e felicidade, refletindo a desigualdade econômica global.
+
+### Social Support  
+
+• Média: 0.80  
+• Mediana: 0.83  
+• Desvio Padrão: 0.13  
+• Percentis:  
+   25% Percentil: 0.72  
+   50% Percentil: 0.83  
+   75% Percentil: 0.90  
+
+#### Análise:  
+Com uma média de 0.80 e uma mediana de 0.83, o suporte social é um fator crucial, indicando que a maioria dos países valoriza as redes de apoio. O desvio padrão de 0.13 mostra que há alguma variação, mas a maioria dos países tem bons níveis de suporte social. A 
+variação entre os percentis 25% e 75% (0.72 a 0.90) indica a importância desse fator na percepção de felicidade.
+
+### Healthy Life Expectancy  
+
+• Média: 64.97 anos  
+• Mediana: 65.84 anos  
+• Desvio Padrão: 5.75 anos  
+• Percentis:  
+   25% Percentil: 60.65 anos  
+   50% Percentil: 65.84 anos  
+   75% Percentil: 69.41 anos  
+
+#### Análise:  
+A média de 64.97 anos e a mediana de 65.84 anos reforçam a importância da saúde na percepção de felicidade. O desvio padrão de 5.75 anos aponta para diferenças substanciais nos sistemas de saúde globalmente. A variação entre os percentis 25% e 75% (60.65 a 69.41 anos) 
+destaca as desigualdades na saúde e longevidade, que afetam o bem-estar.
+
+### Freedom to Make Life Choices  
+
+• Média: 0.79  
+• Mediana: 0.80  
+• Desvio Padrão: 0.11  
+• Percentis:  
+   25% Percentil: 0.72  
+   50% Percentil: 0.80  
+   75% Percentil: 0.87  
+
+#### Análise:  
+A média elevada de 0.79 e a mediana de 0.80 refletem a alta valorização da liberdade pessoal. O desvio padrão de 0.11 indica uma variação moderada entre os países. A variação entre os percentis 25% e 75% (0.72 a 0.87) mostra que a liberdade para fazer escolhas de vida 
+é um fator importante para a felicidade.
+
+### Generosity  
+
+• Média: 0.02  
+• Mediana: 0.00  
+• Desvio Padrão: 0.14  
+• Percentis:  
+   25% Percentil: -0.07  
+   50% Percentil: 0.00  
+   75% Percentil: 0.12  
+
+#### Análise:  
+A generosidade, com uma média baixa de 0.02 e uma mediana de 0.00, sugere que pode não ser um fator primário de felicidade ou é difícil de medir. O desvio padrão de 0.14 mostra uma variação significativa. A variação entre os percentis 25% e 75% (-0.07 a 0.12) indica 
+que a generosidade pode ser percebida de maneira muito diferente entre os países.  
+
+### Perceptions of Corruption  
+
+• Média: 0.73  
+• Mediana: 0.77  
+• Desvio Padrão: 0.18  
+• Percentis:  
+   25% Percentil: 0.67  
+   50% Percentil: 0.77  
+   75% Percentil: 0.85  
+
+#### Análise:  
+Uma média de 0.73 e uma mediana de 0.77 nas percepções de corrupção indicam que a corrupção é uma preocupação significativa em muitos países. O desvio padrão de 0.18 mostra uma variação considerável. A variação entre os percentis 25% e 75% (0.67 a 0.85) sugere que a 
+corrupção é percebida de maneira diversa entre os países, afetando a felicidade global.  
+
+### Oportunidades  
+
+#### Políticas de Saúde Pública:  
+Investir em sistemas de saúde para aumentar a expectativa de vida saudável pode aumentar a felicidade global, dado o impacto significativo da saúde no bem-estar.  
+
+#### Desigualdade Econômica:  
+Políticas que reduzam a desigualdade econômica podem aumentar o bem-estar geral, especialmente em países com baixos PIBs per capita, dada a forte correlação entre riqueza econômica e felicidade.  
+
+#### Suporte Social:  
+Fortalecer as redes de suporte social pode ter um impacto positivo significativo na felicidade, refletido pela alta média de suporte social.  
+
+#### Liberdade Pessoal:  
+Promover a liberdade para fazer escolhas de vida pode melhorar a percepção de felicidade, conforme indicado pela alta média nesse fator.  
+
+#### Combate à Corrupção:  
+Medidas para reduzir a corrupção podem melhorar a confiança e a satisfação com a vida, conforme indicado pela preocupação significativa com a corrupção em muitos países.  
+
+### Conclusão  
+Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade 
+mundial. Análises mais aprofundadas podem ajudar a identificar intervenções específicas para diferentes contextos nacionais.  
 
 # 3- Visualização de dados:  
 
