@@ -99,28 +99,28 @@ Ladder score *
 Standard error of ladder score
 
 Atributos que influenciam na pontuação da escada:
--Logged GDP per capita
--Social support 
--Healthy life expectancy 
--Freedom to make life choices 
--Generosity
--Perceptions of corruption 
+- Logged GDP per capita
+- Social support 
+- Healthy life expectancy 
+- Freedom to make life choices 
+- Generosity
+- Perceptions of corruption 
 
 Refere-se à contribuição para a pontuação na escada:
--Explained by: Log GDP per capita
--Explained by: Social support
--Explained by: Healthy life expectancy
--Explained by: Freedom to make life choices
--Explained by: Generosity
--Explained by: Perceptions of corruption
+- Explained by: Log GDP per capita
+- Explained by: Social support
+- Explained by: Healthy life expectancy
+- Explained by: Freedom to make life choices
+- Explained by: Generosity
+- Explained by: Perceptions of corruption
 
 Distopia = cenário hipotético 
--Ladder score in Dystopia
--Dystopia + residual
+- Ladder score in Dystopia
+- Dystopia + residual
 _____________
 ATRIBUTOS DELETADOS:
-upperwhisker
-lowerwhisker 
+- upperwhisker
+- lowerwhisker 
 
 # 4- Análise crítica e conclusão: 
 
