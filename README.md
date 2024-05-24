@@ -243,6 +243,8 @@ mundial. Análises mais aprofundadas podem ajudar a identificar intervenções e
 
 # 3- Visualização de dados:  
 
+[Código dos Gráficos](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/analysis.ipynb)  
+
 ### Mapa do Índice de Felicidade
 ![__results___mapa](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/mapa%20por%20indice%20de%20felicidade.png)  
 
