@@ -311,15 +311,7 @@ Ucrânia. Foi ainda mais devastada pelas sanções dos EUA contra o governo da S
 
 ___________
 
-Na capa do trabalho deverá haver a indicação do NOME COMPLETO de cada um dos integrantes da equipe. 
-
 a) Um TEXTO descrevendo cada uma das etapas indicadas anteriormente. O texto deve ser entregue em formato científico. No site da Biblioteca da PUC Minas existem orientações para Elaborar, formatar artigo científico
-
-> Breve introdução e contextualização sobre o dataset + (pegar o dicionário de dados e o fragmento) + explicação das variáveis em formato numérico;
-> (pegar pergunta orientada a dados) + descrição dos 4 métodos de análise exploratória dos dados (pegar imagens);
-> Descrição dos 3 elementos visuais (pegar imagens);
-> Análise crítica -> hipóteses + conclusão;
-> Vídeo.
 
 b) A base de dados tratada (não precisa ser a original) em formato CSV ou Excel.
 
