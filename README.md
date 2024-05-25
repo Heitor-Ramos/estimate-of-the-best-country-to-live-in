@@ -9,6 +9,14 @@ Dataset:
 
 [World Happiness Report 2023.csv](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/files/15422833/World.Happiness.Report.2023.csv)
 
+## Introdução 
+
+	Segundo o Dicionário Brasileiro da Língua Portuguesa, felicidade é o “estado de espírito de quem se encontra alegre ou satisfeito”. Não atando-se apenas ao conceito, a existência da felicidade como algo realizável e alcançável tornou-se tema de pesquisa, discussão e análise. Diante disso, foi estabelecido, em 2012, pela Assembleia Geral das Nações Unidas, o Dia Internacional da Felicidade, comemorado anualmente dia 20 de março. Tendo isso em perspectiva, a significância da ideia de felicidade passou a ser algo visto para além de um cenário pessoal, emocional e individual, mas plural, racional, social e político. A felicidade nacional passou a ser um objetivo operacional para os governos. O sucesso ou o fracasso de um país é também presumível pelo estado de espírito prevalente na população. 
+
+## Contextualização 
+
+	O Relatório Mundial da Felicidade é uma pesquisa em desenvolvimento desde 2012. Com o intuito de realizar medições estatísticas da felicidade global, seu reconhecimento foi impulsionado conforme governos, organizações e comunidades passaram a interpretar os indicadores de felicidade como algo fundamental para tomada de decisões sociais, econômicas e, sobretudo, políticas. Os relatórios anuais refletem a demanda mundial pela atenção à felicidade e o bem-estar social — componentes primários e essenciais para a formação e implementação de políticas governamentais que direcionam o mundo a uma agenda de desenvolvimento sustentável, com enfoque na melhor qualidade do desenvolvimento humano. 
+
 ## Dicionário de dados original: 
 
 | Atributos | Tipo de Dado | Descrição |
@@ -58,16 +66,7 @@ Explained by: Perceptions of corruption | numérico | (Explicado por: Percepçõ
 
 ## Apresentação de uma amostra dos dados:
 
-Country name	Ladder score	Standard error of ladder score	Logged GDP per capita	Social support	Healthy life expectancy	Freedom to make life choices	Generosity	Perceptions of corruption	Ladder score in Dystopia	Explained by: Log GDP per capita	Explained by: Social support	Explained by: Healthy life expectancy	Explained by: Freedom to make life choices	Explained by: Generosity	Explained by: Perceptions of corruption	Dystopia + residual		
-Finland 	7.804	0.036	10.792	0.969	71.150	0.961	-0.019	0.182	1.778	1.888	1.585	0.535	0.772	0.126	0.535	2.363		
-Denmark 	7.586	0.041	10.962	0.954	71.250	0.934	0.134	0.196	1.778	1.949	1.548	0.537	0.734	0.208	0.525	2.084		
-Iceland 	7.530	0.049	10.896	0.983	72.050	0.936	0.211	0.668	1.778	1.926	1.620	0.559	0.738	0.250	0.187	2.250		
-Israel 	        7.473	0.032	10.639	0.943	72.697	0.809	-0.023	0.708	1.778	1.833	1.521	0.577	0.569	0.124	0.158	2.691		
-Netherlands	7.403	0.029	10.942	0.930	71.550	0.887	0.213	0.379	1.778	1.942	1.488	0.545	0.672	0.251	0.394	2.110		
-Sweden	        7.395	0.037	10.883	0.939	72.150	0.948	0.165	0.202	1.778	1.921	1.510	0.562	0.754	0.225	0.520	1.903		
-Norway	        7.315	0.044	11.088	0.943	71.500	0.947	0.141	0.283	1.778	1.994	1.521	0.544	0.752	0.212	0.463	1.829		
-Switzerland	7.240	0.043	11.164	0.920	72.900	0.891	0.027	0.266	1.778	2.022	1.463	0.582	0.678	0.151	0.475	1.870		
-Luxembourg	7.228	0.069	11.660	0.879	71.675	0.915	0.024	0.345	1.778	2.200	1.357	0.549	0.710	0.149	0.418	1.845	
+![image](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/assets/164661514/21c34e93-3f24-4125-8004-7144c24c4760)
 
 ## Explicação dos  atributos: 
 
@@ -292,12 +291,6 @@ estar, falta de infraestrutura e conflitos podem reduzir significativamente a qu
 A análise revela que políticas que promovem a saúde, a segurança social e a infraestrutura podem ter um impacto positivo tanto na expectativa de vida quanto na felicidade. Países que investem em suporte social e bem-
 estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
 aumentar a felicidade de seus habitantes.  
-
-_____________
-ATRIBUTOS DELETADOS:
-- upperwhisker
-- lowerwhisker 
-- Dystopia + residual !!!!!!!!!!!!!!!!!!!!!!!! não esquece desse também!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
   
 # 4- Análise crítica e conclusão: 
 
