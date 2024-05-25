@@ -4,6 +4,7 @@ Fonte:
 
 https://worldhappiness.report/  
 https://worldhappiness.report/data/
+https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf 
 
 Dataset:
 
@@ -69,9 +70,6 @@ Explained by: Perceptions of corruption | numérico | (Explicado por: Percepçõ
 ![image](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/assets/164661514/21c34e93-3f24-4125-8004-7144c24c4760)
 
 ## Explicação dos  atributos: 
-
-https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf 
-(página 1 à 3)
 
 - Ladder score
   
