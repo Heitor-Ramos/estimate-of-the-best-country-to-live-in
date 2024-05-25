@@ -274,7 +274,7 @@ Por outro lado, países com menor expectativa de vida como Afeganistão, Serra L
 estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral  
 
 ### Conclusão da Análise de Visualização de Dados:
-A análise revela que políticas que promovem a saúde, a segurança social e a infraestrutura podem ter um impacto positivo tanto na expectativa de vida quanto na felicidade. Países que investem em suporte social e bem-
+Países que investem em suporte social e bem-
 estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
 aumentar a felicidade de seus habitantes.  
 
