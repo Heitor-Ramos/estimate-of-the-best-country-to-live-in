@@ -259,7 +259,8 @@ Esses países têm expectativas de vida significativamente mais baixas, em torno
 
 Os países que estão no topo da escada de felicidade são:
 Os países que estão na base da escada de felicidade são:
-Explicação: relação da pontuação da Ladder score com os seguintes atributos: Logged GDP per capital, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption 
+Explicação: relação da pontuação da Ladder score com os seguintes atributos: Social support e Healthy life expectancy 
+Pontuações do gráfico do mapa
 
 ### Conclusão da Análise Exploratória de Dados:
 Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade 
