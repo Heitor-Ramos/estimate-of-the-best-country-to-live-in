@@ -215,28 +215,7 @@ que a generosidade pode ser percebida de maneira muito diferente entre os paíse
 
 #### Análise:  
 Uma média de 0.73 e uma mediana de 0.77 nas percepções de corrupção indicam que a corrupção é uma preocupação significativa em muitos países. O desvio padrão de 0.18 mostra uma variação considerável. A variação entre os percentis 25% e 75% (0.67 a 0.85) sugere que a 
-corrupção é percebida de maneira diversa entre os países, afetando a felicidade global.  
-
-### Oportunidades  
-
-#### Políticas de Saúde Pública:  
-Investir em sistemas de saúde para aumentar a expectativa de vida saudável pode aumentar a felicidade global, dado o impacto significativo da saúde no bem-estar.  
-
-#### Desigualdade Econômica:  
-Políticas que reduzam a desigualdade econômica podem aumentar o bem-estar geral, especialmente em países com baixos PIBs per capita, dada a forte correlação entre riqueza econômica e felicidade.  
-
-#### Suporte Social:  
-Fortalecer as redes de suporte social pode ter um impacto positivo significativo na felicidade, refletido pela alta média de suporte social.  
-
-#### Liberdade Pessoal:  
-Promover a liberdade para fazer escolhas de vida pode melhorar a percepção de felicidade, conforme indicado pela alta média nesse fator.  
-
-#### Combate à Corrupção:  
-Medidas para reduzir a corrupção podem melhorar a confiança e a satisfação com a vida, conforme indicado pela preocupação significativa com a corrupção em muitos países.  
-
-### Conclusão  
-Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade 
-mundial. Análises mais aprofundadas podem ajudar a identificar intervenções específicas para diferentes contextos nacionais.  
+corrupção é percebida de maneira diversa entre os países, afetando a felicidade global.   
 
 # 3- Visualização de dados:  
 
@@ -275,26 +254,28 @@ Espanha, França e Suécia, é notável.
 ![__results___6](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20menor%20expectativa.png)  
 
 Esses países têm expectativas de vida significativamente mais baixas, em torno de 50 anos. A maioria está localizada na África, refletindo desafios substanciais em saúde, nutrição, conflitos e infraestrutura.  
-
-### Análise Geral  
-
-Os gráficos mostram uma correlação significativa entre a expectativa de vida, felicidade e suporte social. Os países com maior expectativa de vida, como Suíça, Israel, Suécia e Espanha, também aparecem nos rankings de 
-felicidade e suporte social, indicando que uma população mais saudável tende a ser mais feliz e bem amparada socialmente.  
-
-Por outro lado, países com menor expectativa de vida como Afeganistão, Serra Leoa e Zimbábue, também estão entre os que têm os menores índices de felicidade e suporte social. Isso sugere que desafios em saúde e bem-
-estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral  
-
-### Conclusão  
-
-A análise revela que políticas que promovem a saúde, a segurança social e a infraestrutura podem ter um impacto positivo tanto na expectativa de vida quanto na felicidade. Países que investem em suporte social e bem-
-estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
-aumentar a felicidade de seus habitantes.  
   
 # 4- Análise crítica e conclusão: 
 
 Os países que estão no topo da escada de felicidade são:
 Os países que estão na base da escada de felicidade são:
 Explicação: relação da pontuação da Ladder score com os seguintes atributos: Logged GDP per capital, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption 
+
+### Conclusão da Análise Exploratória de Dados:
+Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade 
+mundial. 
+
+### Análise Geral da Visualização de Dados:
+Os gráficos mostram uma correlação significativa entre a expectativa de vida, felicidade e suporte social. Os países com maior expectativa de vida, como Suíça, Israel, Suécia e Espanha, também aparecem nos rankings de 
+felicidade e suporte social, indicando que uma população mais saudável tende a ser mais feliz e bem amparada socialmente.  
+
+Por outro lado, países com menor expectativa de vida como Afeganistão, Serra Leoa e Zimbábue, também estão entre os que têm os menores índices de felicidade e suporte social. Isso sugere que desafios em saúde e bem-
+estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral  
+
+### Conclusão da Análise de Visualização de Dados:
+A análise revela que políticas que promovem a saúde, a segurança social e a infraestrutura podem ter um impacto positivo tanto na expectativa de vida quanto na felicidade. Países que investem em suporte social e bem-
+estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
+aumentar a felicidade de seus habitantes.  
 
 **Exemplo: 
 
