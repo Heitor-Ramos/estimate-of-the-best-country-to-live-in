@@ -10,6 +10,18 @@ Dataset:
 
 [World Happiness Report 2023.csv](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/files/15422833/World.Happiness.Report.2023.csv)
 
+## Integrantes do grupos:
+
+HEITOR RAMOS DE OLIVEIRA 
+
+JOÃO HENRIQUE PEREIRINHA SORRENTINO 
+
+LUAN INAIBES GUIMARÃES 
+
+RAFAEL BRANDÃO DE OLIVEIRA 
+
+SERENA FERREIRA MOREIRA 
+
 ## Introdução 
 
 Segundo o Dicionário Brasileiro da Língua Portuguesa, felicidade é o “estado de espírito de quem se encontra alegre ou satisfeito”. Não atando-se apenas ao conceito, a existência da felicidade como algo realizável e alcançável tornou-se tema de pesquisa, discussão e análise. Diante disso, foi estabelecido, em 2012, pela Assembleia Geral das Nações Unidas, o Dia Internacional da Felicidade, comemorado anualmente dia 20 de março. Tendo isso em perspectiva, a significância da ideia de felicidade passou a ser algo visto para além de um cenário pessoal, emocional e individual, mas plural, racional, social e político. A felicidade nacional passou a ser um objetivo operacional para os governos. O sucesso ou o fracasso de um país é também presumível pelo estado de espírito prevalente na população. 
