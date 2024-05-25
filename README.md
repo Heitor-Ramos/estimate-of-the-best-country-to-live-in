@@ -269,9 +269,9 @@ Esses países têm expectativas de vida significativamente mais baixas, em torno
   
 # 4- Análise crítica e conclusão: 
 
-Os países que estão no topo da escada de felicidade são:
-Os países que estão na base da escada de felicidade são:
-Explicação: relação da pontuação da Ladder score com os seguintes atributos: Social support e Healthy life expectancy 
+Os países que estão no topo da escada de felicidade são: Finlândia, Dinamarca, Islândia, Israel e Holanda. 
+Os países que estão na base da escada de felicidade são: Afeganistão, Líbano, Serra Leoa, Zimbábue e Congo (Kinshasa). 
+Explicação: a pontuação dos países na Ladder Score estão diretamente relacionados aos gráficos de suporte social e expectativa de vida, visto que a maioria deles que se encontram em posições altas ou baixas na pontuação de felicidade também estão em posições similares nos outros gráficos, como por exemplo Finlândia, Dinamarca e Islândia ocupando as 3 primeiras posições nas listas tanto de felicidade quanto de suporte social, e Afeganistão e Serra Leoa presentes dentre as 10 piores condições de todas as três.
 Pontuações do gráfico do mapa
 
 ### Conclusão da Análise Exploratória de Dados:
