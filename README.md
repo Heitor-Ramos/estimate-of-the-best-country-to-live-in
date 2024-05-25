@@ -2,9 +2,7 @@
 
 Fonte:
 
-https://worldhappiness.report/  
-
-https://worldhappiness.report/data/
+https://worldhappiness.report/ed/2023/
 
 https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf 
 
