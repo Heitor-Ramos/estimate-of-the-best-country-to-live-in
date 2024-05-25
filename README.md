@@ -237,8 +237,7 @@ corrupção é percebida de maneira diversa entre os países, afetando a felicid
 ### Mapa do Índice de Felicidade
 ![__results___mapa](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/mapa%20por%20indice%20de%20felicidade.png)  
 
-O gráfico revela uma clara divisão geográfica, onde os países desenvolvidos tendem a ter maiores índices de felicidade, refletindo melhores condições socioeconômicas, sistemas de suporte social robustos e alta qualidade 
-de vida. Em contraste, regiões com conflitos, pobreza e infraestrutura inadequada apresentam níveis de felicidade significativamente mais baixos.  
+O gráfico representado em de globo nos mostra uma clara divisão, onde os países desenvolvidos tendem a ter maiores índices de felicidade, refletindo melhores condições socioeconômicas e alta qualidade de vida. Ao contrário das regiões menos desenvolvidas, com conflitos e pobreza apresentam níveis de felicidade mais baixos do que o normal. 
 
 ![__results___1](https://github.com/Luannsz/estimate-of-the-best-country-to-live-in/blob/main/images/top%2010%20maior%20indice.png)  
 
