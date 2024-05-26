@@ -269,46 +269,52 @@ Esses países têm expectativas de vida significativamente mais baixas, em torno
   
 # 4- Análise crítica e conclusão: 
 
-Os países que estão no topo da escada de felicidade são: Finlândia, Dinamarca, Islândia, Israel e Holanda.
+Os países que estão no topo da escada de felicidade são: Finlândia, Dinamarca, Islândia, Israel e Holanda. 
 Os países que estão na base da escada de felicidade são: Afeganistão, Líbano, Serra Leoa, Zimbábue e Congo (Kinshasa).
-Explicação: relação da pontuação da Ladder score com os seguintes atributos: Social support e Healthy life expectancy 
-Pontuações do gráfico do mapa
+
+Pontuação dos respectivos países na Ladder Score:
+| País |  Pontuação |
+| ----------|----------|
+ Finlândia | 7.804 |
+ Dinamarca | 7.586 |
+ Islândia | 7.530 |
+ Israel | 7.473 |
+ Holanda | 7.403 |
+ ... | ... |
+ Congo (Kinshasa) | 3.207 |
+ Zimbábue | 3.204 |
+ Serra Leoa | 3.138 |
+ Líbano | 2.392 |
+ Afeganistão | 1.859 |
+
+Explicação: a pontuação dos países na Ladder Score estão diretamente relacionados aos gráficos de suporte social e expectativa de vida, visto que a maioria deles que se encontram em posições altas ou baixas na pontuação de felicidade também estão em posições similares nos outros gráficos, como por exemplo Finlândia, Dinamarca e Islândia ocupando as 3 primeiras posições nas listas tanto de felicidade quanto de suporte social, e Afeganistão e Serra Leoa presentes dentre as 10 piores condições de todas as três.
+Análise das pontuações do gráfico do mapa: é visível uma concentração alta da felicidade na região dos países nórdicos, os quais se desenvolveram bem nos últimos séculos e são países bem consolidados, sem conflitos e com renda estável. Por outro lado, há escassez nos países mesopotâmicos e africanos, onde se concentram guerras e pobreza nos dias atuais.
 
 ### Conclusão da Análise Exploratória de Dados:
-Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade 
-mundial. 
+Os dados fornecem uma visão detalhada dos fatores que influenciam a felicidade global. Investir em saúde, reduzir desigualdades econômicas, fortalecer o suporte social, promover a liberdade pessoal e combater a corrupção são estratégias chave para melhorar a felicidade mundial, perceptíveis ao se comparar as situações dos países que estão no topo aos da base. 
 
 ### Análise Geral da Visualização de Dados:
 Os gráficos mostram uma correlação significativa entre a expectativa de vida, felicidade e suporte social. Os países com maior expectativa de vida, como Suíça, Israel, Suécia e Espanha, também aparecem nos rankings de 
 felicidade e suporte social, indicando que uma população mais saudável tende a ser mais feliz e bem amparada socialmente.  
 
-Por outro lado, países com menor expectativa de vida como Afeganistão, Serra Leoa e Zimbábue, também estão entre os que têm os menores índices de felicidade e suporte social. Isso sugere que desafios em saúde e bem-
-estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral  
+Por outro lado, países com menor expectativa de vida como Afeganistão, Serra Leoa e Zimbábue, também estão entre os que têm os menores índices de felicidade e suporte social. Isso sugere que desafios em saúde e bem-estar, falta de infraestrutura e conflitos podem reduzir significativamente a qualidade de vida e a felicidade geral da população.
 
 ### Conclusão da Análise de Visualização de Dados:
-Países que investem em suporte social e bem-
-estar tendem a ter cidadãos mais longevos e felizes. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e 
-aumentar a felicidade de seus habitantes.  
+Países que investem em suporte social e bem-estar tendem a ter cidadãos mais longevos e, consequentemente, mais felizes, pois terão certa segurança quanto às doenças que podem vir acompanhadas à idade, e conseguirão aproveitar a terceira idade com atividades do agrado pessoal. Em contraste, regiões que enfrentam desafios socioeconômicos e de saúde significativos precisam de intervenções abrangentes para melhorar a qualidade de vida e aumentar a felicidade de seus habitantes.
+
 
 **Exemplo: 
 
-Verificamos que as classificações e as pontuações dos países se mantêm relativamente inalteradas, com algumas excepções. Por exemplo, a Malásia registou um declínio acentuado na sua pontuação da escada de 2018 
-para 2019.  
+Verificamos que as classificações e as pontuações dos países se mantêm relativamente inalteradas, com algumas exceções. Por exemplo, a Malásia registou um declínio acentuado na Ladder Score de 2018 para 2019. 
 
 Outro fator que percebemos é que 8 dos 10 primeiros países mais felizes se situam na Europa e, além disso, 5 deles são da Escandinávia (Finlândia, Dinamarca, Islândia, Suécia e Noruega). Estes fatos são esperados, uma vez que estes países são conhecidos pela sua elevada qualidade de vida.
 
-E para países com um declínio acentuado. Um fato que deveria ser esperado é se o índice de felicidade medido é baixo, geralmente indica baixos níveis de liberdade, direitos humanos e elevados níveis de corrupção governamental. Sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
+E para países com um declínio acentuado. Um fato que deveria ser esperado é se o índice de felicidade medido é baixo, geralmente indica baixos níveis de liberdade, direitos humanos e elevados níveis de corrupção governamental. Sem intervenção externa positiva, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país. 
 
 Elevados níveis de corrupção governamental e sem intervenção externa, é natural que estes fatores conduzam a uma espiral de reforço negativo que agrava ainda mais a tristeza no país.  
 
-Curiosamente, as pontuações do Afeganistão e do Líbano eram relativamente mais altas, mas depois caíram significativamente a partir de 2017. Se consultarmos fontes externas, podemos ver mais ou menos porque é que isto acontece:
-
-Afeganistão: Após a ocupação americana do país, que terminou em 2021, o Tailban assumiu o poder em agosto de 2021. Impuseram numerosas regras e políticas que violavam os direitos humanos, especialmente das mulheres.
-Também reprimiram a liberdade de expressão, fecharam à força organizações da sociedade civil e desmantelaram gabinetes governamentais centrados nos direitos humanos. 
-
-Líbano: O Líbano está atualmente a atravessar uma crise financeira que começou por volta de 2019 e foi ainda mais exacerbada pela pandemia de COVID-19, pela explosão do porto de Beirute em 2020 e pela invasão russa da 
-Ucrânia. Foi ainda mais devastada pelas sanções dos EUA contra o governo da Síria e o Hezbollah, apoiado pelo Irão. Em particular, a sua moeda foi desvalorizada em 90%, com níveis de inflação de três dígitos. 
-
+Curiosamente, as pontuações do Afeganistão e do Líbano eram relativamente mais altas, mas depois caíram significativamente a partir de 2017. Se consultarmos fontes externas, podemos ver mais ou menos porque, no Afeganistão, após a ocupação americana do país, que terminou em 2021, o Tailbã assumiu o poder em agosto de 2021, e impuseram numerosas regras e políticas que violavam os direitos humanos, especialmente das mulheres. Também reprimiram a liberdade de expressão, fecharam à força organizações da sociedade civil e desmantelaram gabinetes governamentais centrados nos direitos humanos. 
+Enquanto isso, o Líbano está atualmente a atravessar uma crise financeira que começou por volta de 2019 e foi ainda mais exacerbada pela pandemia de COVID-19, pela explosão do porto de Beirute em 2020 e pela invasão russa à Ucrânia. O país foi ainda mais devastado pelas sanções dos EUA contra o governo da Síria e o Hezbollah, apoiado pelo Irã. Em particular, a sua moeda foi desvalorizada em 90%, com níveis de inflação de três dígitos. 
 ___________
 
 a) Um TEXTO descrevendo cada uma das etapas indicadas anteriormente. O texto deve ser entregue em formato científico. No site da Biblioteca da PUC Minas existem orientações para Elaborar, formatar artigo científico
